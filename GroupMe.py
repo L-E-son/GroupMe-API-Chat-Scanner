@@ -1,12 +1,6 @@
-﻿import requests
-import json
-import logging
-import os
-import re
-import string
+import requests, json, logging, os, re, string, array
 from pprint import pprint
 import collections.abc
-import array
 import collections.abc
 
 accesstoken = ''
